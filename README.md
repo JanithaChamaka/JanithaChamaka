@@ -1,4 +1,4 @@
-<center>[![MasterHead](https://media.tenor.com/HSoC1EQpE14AAAAC/welcome.gif)]<center>
+[![MasterHead](https://media.tenor.com/HSoC1EQpE14AAAAC/welcome.gif)]
 <h1 align="center">Hi 👋, I'm Janitha Chamaka</h1>
 <h3 align="center">Hi there! I'm a software developer, I am passionate about creating innovative software solutions that help solve real-world problems. I have extensive experience in developing and maintaining software applications using a variety of programming languages and technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
